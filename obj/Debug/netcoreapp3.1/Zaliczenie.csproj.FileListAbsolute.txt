@@ -1,0 +1,80 @@
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.exe
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.deps.json
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.json
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.dev.json
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.dll
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.pdb
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie_MarkupCompile.cache
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie_MarkupCompile.lref
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.g.resources
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfo.cs
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.dll
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.pdb
+C:\Users\Michał\Desktop\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.genruntimeconfig.cache
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.AssemblyReference.cache
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie_MarkupCompile.cache
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie_MarkupCompile.lref
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.dll
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.pdb
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.exe
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.deps.json
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.json
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.dev.json
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.dll
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.pdb
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.g.resources
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfoInputs.cache
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfo.cs
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\Stefania\Downloads\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.genruntimeconfig.cache
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.exe
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.deps.json
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.json
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.dev.json
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.dll
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.pdb
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.AssemblyReference.cache
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\App.g.cs
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie_MarkupCompile.cache
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie_MarkupCompile.lref
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.g.resources
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfoInputs.cache
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfo.cs
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.CoreCompileInputs.cache
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.dll
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.pdb
+E:\FINAL PRGRAM\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.genruntimeconfig.cache
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.exe
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.deps.json
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.json
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.runtimeconfig.dev.json
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.dll
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\bin\Debug\netcoreapp3.1\Zaliczenie.pdb
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.AssemblyReference.cache
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie_MarkupCompile.cache
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie_MarkupCompile.lref
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.g.resources
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfoInputs.cache
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.AssemblyInfo.cs
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.csproj.CoreCompileInputs.cache
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.dll
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.pdb
+D:\Studia\Programowanie\Zaliczenie\Zaliczenie\obj\Debug\netcoreapp3.1\Zaliczenie.genruntimeconfig.cache
